@@ -1,2 +1,2 @@
-# docs-hexagonal-architecture
-Hexagonal Architecture (Ports and Adapters Architecture)
+# Hexagonal Architecture (Ports and Adapters Architecture)
+http://alistair.cockburn.us/Hexagonal+architecture
